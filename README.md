@@ -1,6 +1,6 @@
 # Joe Amenta
 
-I've done some things before:
+I've done some things in public before. [Here's](https://github.com/airbreather) my GitHub profile. Some highlights:
 
 - I'm a maintainer of [NetTopologySuite](https://github.com/NetTopologySuite) (and I'm less active, these days)
 - I wrote a [very fast CSV parser in C#](https://airbreather.github.io/Cursively) (that I don't maintain so much anymore)
